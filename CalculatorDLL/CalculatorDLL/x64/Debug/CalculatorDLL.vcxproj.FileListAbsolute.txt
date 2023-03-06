@@ -1,0 +1,1 @@
+C:\Users\Admin\source\repos\CalculatorDLL\CalculatorDLL\x64\Debug\CalculatorDLL.vcxproj.AssemblyReference.cache

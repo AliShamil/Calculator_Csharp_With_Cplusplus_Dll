@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\bin\Debug\net6.0\Calculator App Using C++ DLL.exe
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\bin\Debug\net6.0\Calculator App Using C++ DLL.deps.json
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\bin\Debug\net6.0\Calculator App Using C++ DLL.runtimeconfig.json
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\bin\Debug\net6.0\Calculator App Using C++ DLL.dll
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\bin\Debug\net6.0\Calculator App Using C++ DLL.pdb
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\bin\Debug\net6.0\CalculatorDLL.dll
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\bin\Debug\net6.0\CalculatorDLL.pdb
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\obj\Debug\net6.0\Calculator App Using C++ DLL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\obj\Debug\net6.0\Calculator App Using C++ DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\obj\Debug\net6.0\Calculator App Using C++ DLL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\obj\Debug\net6.0\Calculator App Using C++ DLL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\obj\Debug\net6.0\Calculator App Using C++ DLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\obj\Debug\net6.0\Calculator App Using C++ DLL.csproj.CopyComplete
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\obj\Debug\net6.0\Calculator App Using C++ DLL.dll
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\obj\Debug\net6.0\refint\Calculator App Using C++ DLL.dll
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\obj\Debug\net6.0\Calculator App Using C++ DLL.pdb
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\obj\Debug\net6.0\Calculator App Using C++ DLL.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Calculator App Using C++ DLL\Calculator App Using C++ DLL\obj\Debug\net6.0\ref\Calculator App Using C++ DLL.dll

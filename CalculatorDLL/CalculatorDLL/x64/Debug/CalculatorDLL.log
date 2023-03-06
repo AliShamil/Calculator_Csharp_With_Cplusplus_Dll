@@ -1,0 +1,12 @@
+﻿  Calculator.cpp
+C:\Users\Admin\source\repos\CalculatorDLL\CalculatorDLL\Calculator.cpp(8,5): warning C4273: 'Add': inconsistent dll linkage
+C:\Users\Admin\source\repos\CalculatorDLL\CalculatorDLL\Calculator.h(11,31): message : see previous definition of 'Add'
+C:\Users\Admin\source\repos\CalculatorDLL\CalculatorDLL\Calculator.cpp(13,5): warning C4273: 'Subtract': inconsistent dll linkage
+C:\Users\Admin\source\repos\CalculatorDLL\CalculatorDLL\Calculator.h(12,31): message : see previous definition of 'Subtract'
+C:\Users\Admin\source\repos\CalculatorDLL\CalculatorDLL\Calculator.cpp(18,5): warning C4273: 'Multiply': inconsistent dll linkage
+C:\Users\Admin\source\repos\CalculatorDLL\CalculatorDLL\Calculator.h(13,31): message : see previous definition of 'Multiply'
+C:\Users\Admin\source\repos\CalculatorDLL\CalculatorDLL\Calculator.cpp(23,5): warning C4273: 'Divide': inconsistent dll linkage
+C:\Users\Admin\source\repos\CalculatorDLL\CalculatorDLL\Calculator.h(14,31): message : see previous definition of 'Divide'
+  Calculator.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+     Creating library C:\Users\Admin\source\repos\CalculatorDLL\x64\Debug\CalculatorDLL.lib and object C:\Users\Admin\source\repos\CalculatorDLL\x64\Debug\CalculatorDLL.exp
+  CalculatorDLL.vcxproj -> C:\Users\Admin\source\repos\CalculatorDLL\x64\Debug\CalculatorDLL.dll
